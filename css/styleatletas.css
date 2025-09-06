@@ -1,0 +1,10 @@
+.tarjet-atleta {
+background: #ea00ff;
+background: linear-gradient(108deg,rgba(234, 0, 255, 1) 0%, rgba(0, 0, 0, 0.71) 100%, rgba(237, 221, 83, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+th {
+    padding: 10px;
+}

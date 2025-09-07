@@ -8,3 +8,6 @@ background: linear-gradient(108deg,rgba(234, 0, 255, 1) 0%, rgba(0, 0, 0, 0.71) 
 th {
     padding: 10px;
 }
+.detail {
+    background-color: #ffc400;
+}
